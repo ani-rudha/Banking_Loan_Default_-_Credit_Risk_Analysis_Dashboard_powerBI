@@ -1,5 +1,6 @@
 # 🏦 Banking Loan Default & Credit Risk Analysis Dashboard (Power BI)
 This project presents an end-to-end **Banking Loan Performance and Credit Risk Analysis** built using Power BI to identify credit risk patterns, default drivers, repayment behavior, and high risk customer segments
+
 The dashboard integrates default risk analytics, credit risk segment optimization and repayment behavioral analysis to simulate synthetic banking risk analysis with emphasis on loan and credit risks.
 
 ---
